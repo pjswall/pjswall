@@ -3,14 +3,21 @@
 <!--
 **prateekj7777/prateekj7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing my research@IIIT Hyderabad 2021. 
+- Here am learning about Data Analytics, ML, NLP and Computer Vision.
+  
+- Formerly, I have worked with Cognizant Technology Solutions as a programmer analyst. I have also worked as a data analyst trainee for LEAP Anlaytics in Cognizant itself.
+- Which deals with Smart Feedback, Smart release, Smart Assessment to provide zero failure services.
+
+Things I'm good at 🔥
+
+Domain: Image Processing, Machine Learning
+
+Languages: Python, SQL, HTML, CSS.
+
+Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK.
+
+Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation.
+
