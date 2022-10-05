@@ -24,3 +24,4 @@ Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK.
 Data Analytics: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation.
 ![download](https://user-images.githubusercontent.com/36843605/144180735-63d630d2-acd8-4eeb-a09f-909b28ab9b7d.jpg)
 
+<img align="left" alt="prateek jaiswal's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=prateekj7777&show_icons=true&theme=radical&hide_border=true&count_private=true" />
