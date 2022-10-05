@@ -12,9 +12,15 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently pursuing my research@IIIT Hyderabad 2021. 
 
-- ✨ Here am learning about Data Analytics, ML, NLP and Computer Vision.
-  
+- 🌿 Published paper: Facial De-morphing: Extracting Component Faces from a Single Morph (IJCB 2022)  
+
+<a href="https://arxiv.org/abs/2209.02933"><img src="https://img.shields.io/badge/arXiv-2209.02933-b31b1b.svg" height=22.5></a>
+
+
+- ✨ Here am learning about Computer Vision and Computer Biometrics
+
 - 👯 Formerly, I have worked with Cognizant Technology Solutions as a programmer analyst. I have also worked as a data analyst trainee for LEAP Anlaytics in Cognizant itself.
+ <a href="https://www.cognizant.com/in/en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1200px-Cognizant%27s_logo.svg.png?20210310200308" alt="cognizant" height="30" width="40" /></a>
 
 - 📫 How to reach me **prateek.jaiswal@research.iiit.ac.in**
 
@@ -22,9 +28,6 @@ Here are some ideas to get you started: -->
 
 - 🔥 Things I'm good at 
 
-- 🌿 Published paper: Facial De-morphing: Extracting Component Faces from a Single Morph (IJCB 2022)  
-
-<a href="https://arxiv.org/abs/2209.02933"><img src="https://img.shields.io/badge/arXiv-2209.02933-b31b1b.svg" height=22.5></a>
 
 
 <h3 align="left">Connect with me:</h3>
