@@ -24,7 +24,7 @@ Here are some ideas to get you started: -->
 
 - 📫 How to reach me **prateek.jaiswal@research.iiit.ac.in**
 
-- ⚡ Which deals with Smart Feedback, Smart release, Smart Assessment to provide zero failure services.
+- ⚡ Working on UADAI Indian Govt. Aadhar Project for providing manual KYC to users by using face as biometric id.
 
 - 🔥 Things I'm good at 
 
