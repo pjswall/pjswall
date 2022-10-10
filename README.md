@@ -19,14 +19,14 @@ Here are some ideas to get you started: -->
 
 - ✨ Here am learning about Computer Vision and Computer Biometrics
 
-- 🔷 Formerly, I have worked with Cognizant Technology Solutions as a programmer analyst. I have also worked as a data analyst trainee for LEAP Anlaytics in Cognizant itself.
+- 💼 Formerly, I have worked with Cognizant Technology Solutions as a programmer analyst. I have also worked as a data analyst trainee for LEAP Anlaytics in Cognizant itself.
  <a href="https://www.cognizant.com/in/en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1200px-Cognizant%27s_logo.svg.png?20210310200308" alt="cognizant" height="30" width="80" /></a>
 
 - 📫 How to reach me **prateek.jaiswal@research.iiit.ac.in**
 
 - ⚡ Working on UADAI Indian Govt. Aadhar Project for providing manual KYC to users by using face as biometric id.
 
-- 🔥 Things I'm good at 
+- 🔷 Things I'm good at 
 
 
 
