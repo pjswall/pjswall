@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 <a href="https://arxiv.org/abs/2209.02933"><img src="https://img.shields.io/badge/arXiv-2209.02933-b31b1b.svg" height=22.5></a>
 
 <!-- Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{prateekj7777}/count.svg) -->
-![](https://komarev.com/ghpvc/?username=MAZHARMIK)
+![](https://komarev.com/ghpvc/?username=prateekj7777)
 - ✨ Here am learning about Computer Vision and Computer Biometrics
 
 - 💼 Formerly, I have worked with Cognizant Technology Solutions as a programmer analyst. I have also worked as a data analyst trainee for LEAP Anlaytics in Cognizant itself.
