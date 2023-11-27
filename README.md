@@ -22,6 +22,8 @@ Here are some ideas to get you started: -->
 ![](https://komarev.com/ghpvc/?username=prateekj7777)
 - ✨ Here am learning about Computer Vision and Computer Biometrics
 
+- 🖥️ Ex. Data Science Intern at UIDAI Aadhar India. Part of manual VIDEO KYC and SDK benchmarking project.
+
 - 💼 Formerly, I have worked with Cognizant Technology Solutions as a programmer analyst. I have also worked as a data analyst trainee for LEAP Anlaytics in Cognizant itself.
  <a href="https://www.cognizant.com/in/en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1200px-Cognizant%27s_logo.svg.png?20210310200308" alt="cognizant" height="30" width="80" /></a>
 
