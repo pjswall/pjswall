@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 - 🌿 Published paper: Facial De-morphing: Extracting Component Faces from a Single Morph (IJCB 2022)
 
-- ☘️ Spotlight paper presentation: Advancing Fingerprint Quality Recognition: Introducing FRBQ Metric for Enhanced Fingerprint Quality Assessment
+- ☘️ Spotlight paper presentation: Advancing Fingerprint Quality Recognition: Introducing FRBQ Metric for Enhanced Fingerprint Quality Assessment (ICVGIP 2023)
 
 <a href="https://arxiv.org/abs/2209.02933"><img src="https://img.shields.io/badge/arXiv-2209.02933-b31b1b.svg" height=22.5></a>
 
